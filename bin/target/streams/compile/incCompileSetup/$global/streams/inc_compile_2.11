@@ -1,0 +1,370 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes
+compile options:
+1 items
+0 -> -Xplugin:C:\Users\Alan\.ivy2\cache\org.scalamacros\paradise_2.11.7\jars\paradise_2.11.7-2.1.0.jar
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+38 items
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleServerLoop$$anon$1.class
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleServerLoop$$anon$2.class
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleServerLoop$$anonfun$1$$anonfun$apply$mcV$sp$1.class
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleServerLoop$$anonfun$1.class
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleServerLoop$$anonfun$2.class
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleServerLoop$$anonfun$3$$anonfun$apply$1$$anonfun$apply$2.class
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleServerLoop$$anonfun$3$$anonfun$apply$1$$anonfun$apply$3$$anonfun$apply$4.class
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleServerLoop$$anonfun$3$$anonfun$apply$1$$anonfun$apply$3$$anonfun$apply$5$$anonfun$apply$6.class
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleServerLoop$$anonfun$3$$anonfun$apply$1$$anonfun$apply$3$$anonfun$apply$5$$anonfun$apply$7$$anonfun$apply$8.class
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleServerLoop$$anonfun$3$$anonfun$apply$1$$anonfun$apply$3$$anonfun$apply$5$$anonfun$apply$7$$anonfun$apply$9$$anonfun$apply$10.class
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleServerLoop$$anonfun$3$$anonfun$apply$1$$anonfun$apply$3$$anonfun$apply$5$$anonfun$apply$7$$anonfun$apply$9$$anonfun$apply$11.class
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleServerLoop$$anonfun$3$$anonfun$apply$1$$anonfun$apply$3$$anonfun$apply$5$$anonfun$apply$7$$anonfun$apply$9.class
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleServerLoop$$anonfun$3$$anonfun$apply$1$$anonfun$apply$3$$anonfun$apply$5$$anonfun$apply$7.class
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleServerLoop$$anonfun$3$$anonfun$apply$1$$anonfun$apply$3$$anonfun$apply$5.class
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleServerLoop$$anonfun$3$$anonfun$apply$1$$anonfun$apply$3.class
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleServerLoop$$anonfun$3$$anonfun$apply$1.class
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleServerLoop$$anonfun$3.class
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleServerLoop$.class
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleServerLoop$delayedInit$body.class
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleServerLoop.class
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleClient$$anonfun$1.class
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleClient$$anonfun$2$$anonfun$apply$1.class
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleClient$$anonfun$2$$anonfun$apply$2$$anonfun$apply$3.class
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleClient$$anonfun$2$$anonfun$apply$2$$anonfun$apply$4$$anonfun$apply$5.class
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleClient$$anonfun$2$$anonfun$apply$2$$anonfun$apply$4$$anonfun$apply$6$$anonfun$apply$7.class
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleClient$$anonfun$2$$anonfun$apply$2$$anonfun$apply$4$$anonfun$apply$6$$anonfun$apply$8.class
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleClient$$anonfun$2$$anonfun$apply$2$$anonfun$apply$4$$anonfun$apply$6.class
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleClient$$anonfun$2$$anonfun$apply$2$$anonfun$apply$4.class
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleClient$$anonfun$2$$anonfun$apply$2.class
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleClient$$anonfun$2.class
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleClient$.class
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleClient$delayedInit$body.class
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleClient.class
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Test.scala -> C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\Test$$anonfun$1.class
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Test.scala -> C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\Test$$anonfun$addOther$1.class
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Test.scala -> C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\Test$.class
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Test.scala -> C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\Test$delayedInit$body.class
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Test.scala -> C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\Test.class
+binary dependencies:
+8 items
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> C:\Program Files\Java\jre1.8.0_221\lib\rt.jar
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> C:\Users\Alan\.ivy2\cache\com.jsuereth\scala-arm_2.11\jars\scala-arm_2.11-1.4.jar
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> C:\Users\Alan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> C:\Program Files\Java\jre1.8.0_221\lib\rt.jar
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> C:\Users\Alan\.ivy2\cache\com.jsuereth\scala-arm_2.11\jars\scala-arm_2.11-1.4.jar
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> C:\Users\Alan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Test.scala -> C:\Program Files\Java\jre1.8.0_221\lib\rt.jar
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Test.scala -> C:\Users\Alan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+38 items
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> SimpleServerLoop
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> SimpleServerLoop$
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> SimpleServerLoop$$anon$1
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> SimpleServerLoop$$anon$2
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> SimpleServerLoop$$anonfun$1
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> SimpleServerLoop$$anonfun$1$$anonfun$apply$mcV$sp$1
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> SimpleServerLoop$$anonfun$2
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> SimpleServerLoop$$anonfun$3
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> SimpleServerLoop$$anonfun$3$$anonfun$apply$1
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> SimpleServerLoop$$anonfun$3$$anonfun$apply$1$$anonfun$apply$2
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> SimpleServerLoop$$anonfun$3$$anonfun$apply$1$$anonfun$apply$3
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> SimpleServerLoop$$anonfun$3$$anonfun$apply$1$$anonfun$apply$3$$anonfun$apply$4
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> SimpleServerLoop$$anonfun$3$$anonfun$apply$1$$anonfun$apply$3$$anonfun$apply$5
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> SimpleServerLoop$$anonfun$3$$anonfun$apply$1$$anonfun$apply$3$$anonfun$apply$5$$anonfun$apply$6
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> SimpleServerLoop$$anonfun$3$$anonfun$apply$1$$anonfun$apply$3$$anonfun$apply$5$$anonfun$apply$7
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> SimpleServerLoop$$anonfun$3$$anonfun$apply$1$$anonfun$apply$3$$anonfun$apply$5$$anonfun$apply$7$$anonfun$apply$8
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> SimpleServerLoop$$anonfun$3$$anonfun$apply$1$$anonfun$apply$3$$anonfun$apply$5$$anonfun$apply$7$$anonfun$apply$9
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> SimpleServerLoop$$anonfun$3$$anonfun$apply$1$$anonfun$apply$3$$anonfun$apply$5$$anonfun$apply$7$$anonfun$apply$9$$anonfun$apply$10
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> SimpleServerLoop$$anonfun$3$$anonfun$apply$1$$anonfun$apply$3$$anonfun$apply$5$$anonfun$apply$7$$anonfun$apply$9$$anonfun$apply$11
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> SimpleServerLoop$delayedInit$body
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> SimpleClient
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> SimpleClient$
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> SimpleClient$$anonfun$1
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> SimpleClient$$anonfun$2
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> SimpleClient$$anonfun$2$$anonfun$apply$1
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> SimpleClient$$anonfun$2$$anonfun$apply$2
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> SimpleClient$$anonfun$2$$anonfun$apply$2$$anonfun$apply$3
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> SimpleClient$$anonfun$2$$anonfun$apply$2$$anonfun$apply$4
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> SimpleClient$$anonfun$2$$anonfun$apply$2$$anonfun$apply$4$$anonfun$apply$5
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> SimpleClient$$anonfun$2$$anonfun$apply$2$$anonfun$apply$4$$anonfun$apply$6
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> SimpleClient$$anonfun$2$$anonfun$apply$2$$anonfun$apply$4$$anonfun$apply$6$$anonfun$apply$7
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> SimpleClient$$anonfun$2$$anonfun$apply$2$$anonfun$apply$4$$anonfun$apply$6$$anonfun$apply$8
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> SimpleClient$delayedInit$body
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Test.scala -> Test
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Test.scala -> Test$
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Test.scala -> Test$$anonfun$1
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Test.scala -> Test$$anonfun$addOther$1
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Test.scala -> Test$delayedInit$body
+used names:
+162 items
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> $anon
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> <byname>
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> <init>
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> <refinement>
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> ==
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> A
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> Any
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> AnyRef
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> App
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> Array
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> B
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> Boolean
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> Byte
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> ClassTag
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> Closeable
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> DataInputStream
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> DataOutputStream
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> DatagramPacket
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> DatagramSocket
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> Exception
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> ExecutionContext
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> ExecutionContextExecutor
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> Function1
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> InputStream
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> Int
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> ManagedResource
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> Manifest
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> ManifestFactory
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> Nothing
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> Object
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> OutputStream
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> Predef
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> Resource
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> Runnable
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> ServerSocket
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> SimpleServerLoop
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> Socket
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> String
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> T
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> Unit
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> _root_
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> aSocket
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> accept
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> apply
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> body
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> buffer
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> classType
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> closeableResource
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> concurrent
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> data
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> dataIS
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> dataOS
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> e
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> execute
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> foreach
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> getData
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> getInputStream
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> getOutputStream
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> global
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> io
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> is
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> isocket
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> java
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> lang
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> length
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> managed
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> materializeClassTag
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> net
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> ofDim
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> os
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> package
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> printStackTrace
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> readUTF
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> receive
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> reflect
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> request
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> resource
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> s
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> scala
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> serverSocket
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> socket
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> toLowerCase
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> trim
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> while$1
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> while$2
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> word
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> writeUTF
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> <byname>
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> <init>
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> <refinement>
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> <repeated>
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> A
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> Any
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> AnyRef
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> App
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> Closeable
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> DataInputStream
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> DataOutputStream
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> Exception
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> Function1
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> InputStream
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> Int
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> ManagedResource
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> Manifest
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> ManifestFactory
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> Nothing
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> Object
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> OutputStream
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> Predef
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> Resource
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> SimpleClient
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> Socket
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> String
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> StringContext
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> T
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> Unit
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> classType
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> closeableResource
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> dis
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> dos
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> e
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> foreach
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> getInputStream
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> getOutputStream
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> io
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> is
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> java
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> managed
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> net
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> os
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> package
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> printStackTrace
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> println
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> readUTF
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> reflect
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> reply
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> resource
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> s
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> s1
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> scala
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> writeUTF
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Test.scala -> +
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Test.scala -> <init>
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Test.scala -> Any
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Test.scala -> App
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Test.scala -> Function1
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Test.scala -> Int
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Test.scala -> Nothing
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Test.scala -> Object
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Test.scala -> Predef
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Test.scala -> Test
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Test.scala -> Unit
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Test.scala -> _root_
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Test.scala -> a
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Test.scala -> add2
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Test.scala -> add3
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Test.scala -> add4
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Test.scala -> addOther
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Test.scala -> apply
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Test.scala -> b
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Test.scala -> println
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Test.scala -> scala
+product stamps:
+38 items
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleClient$$anonfun$1.class -> lastModified(1574856938633)
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleClient$$anonfun$2$$anonfun$apply$1.class -> lastModified(1574856938642)
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleClient$$anonfun$2$$anonfun$apply$2$$anonfun$apply$3.class -> lastModified(1574856938649)
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleClient$$anonfun$2$$anonfun$apply$2$$anonfun$apply$4$$anonfun$apply$5.class -> lastModified(1574856938657)
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleClient$$anonfun$2$$anonfun$apply$2$$anonfun$apply$4$$anonfun$apply$6$$anonfun$apply$7.class -> lastModified(1574856938664)
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleClient$$anonfun$2$$anonfun$apply$2$$anonfun$apply$4$$anonfun$apply$6$$anonfun$apply$8.class -> lastModified(1574856938670)
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleClient$$anonfun$2$$anonfun$apply$2$$anonfun$apply$4$$anonfun$apply$6.class -> lastModified(1574856938661)
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleClient$$anonfun$2$$anonfun$apply$2$$anonfun$apply$4.class -> lastModified(1574856938654)
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleClient$$anonfun$2$$anonfun$apply$2.class -> lastModified(1574856938645)
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleClient$$anonfun$2.class -> lastModified(1574856938638)
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleClient$.class -> lastModified(1574856938627)
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleClient$delayedInit$body.class -> lastModified(1574856938673)
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleClient.class -> lastModified(1574856938560)
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleServerLoop$$anon$1.class -> lastModified(1574856938687)
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleServerLoop$$anon$2.class -> lastModified(1574856938690)
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleServerLoop$$anonfun$1$$anonfun$apply$mcV$sp$1.class -> lastModified(1574856938698)
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleServerLoop$$anonfun$1.class -> lastModified(1574856938695)
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleServerLoop$$anonfun$2.class -> lastModified(1574856938701)
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleServerLoop$$anonfun$3$$anonfun$apply$1$$anonfun$apply$2.class -> lastModified(1574856938711)
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleServerLoop$$anonfun$3$$anonfun$apply$1$$anonfun$apply$3$$anonfun$apply$4.class -> lastModified(1574856938718)
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleServerLoop$$anonfun$3$$anonfun$apply$1$$anonfun$apply$3$$anonfun$apply$5$$anonfun$apply$6.class -> lastModified(1574856938725)
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleServerLoop$$anonfun$3$$anonfun$apply$1$$anonfun$apply$3$$anonfun$apply$5$$anonfun$apply$7$$anonfun$apply$8.class -> lastModified(1574856938732)
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleServerLoop$$anonfun$3$$anonfun$apply$1$$anonfun$apply$3$$anonfun$apply$5$$anonfun$apply$7$$anonfun$apply$9$$anonfun$apply$10.class -> lastModified(1574856938740)
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleServerLoop$$anonfun$3$$anonfun$apply$1$$anonfun$apply$3$$anonfun$apply$5$$anonfun$apply$7$$anonfun$apply$9$$anonfun$apply$11.class -> lastModified(1574856938744)
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleServerLoop$$anonfun$3$$anonfun$apply$1$$anonfun$apply$3$$anonfun$apply$5$$anonfun$apply$7$$anonfun$apply$9.class -> lastModified(1574856938736)
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleServerLoop$$anonfun$3$$anonfun$apply$1$$anonfun$apply$3$$anonfun$apply$5$$anonfun$apply$7.class -> lastModified(1574856938729)
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleServerLoop$$anonfun$3$$anonfun$apply$1$$anonfun$apply$3$$anonfun$apply$5.class -> lastModified(1574856938721)
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleServerLoop$$anonfun$3$$anonfun$apply$1$$anonfun$apply$3.class -> lastModified(1574856938714)
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleServerLoop$$anonfun$3$$anonfun$apply$1.class -> lastModified(1574856938708)
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleServerLoop$$anonfun$3.class -> lastModified(1574856938704)
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleServerLoop$.class -> lastModified(1574856938685)
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleServerLoop$delayedInit$body.class -> lastModified(1574856938753)
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\SimpleServerLoop.class -> lastModified(1574856938678)
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\Test$$anonfun$1.class -> lastModified(1574856938767)
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\Test$$anonfun$addOther$1.class -> lastModified(1574856938771)
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\Test$.class -> lastModified(1574856938763)
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\Test$delayedInit$body.class -> lastModified(1574856938773)
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\target\scala-2.11\classes\Test.class -> lastModified(1574856938757)
+source stamps:
+3 items
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> hash(e9c3513ad04ea7d4d342a1f0eb3e0cadaf83100b)
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> hash(ead795db3d39c5d39fdd18b10dad281e05f5d60f)
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Test.scala -> hash(e873521dcdffc44e26c5c72dc1a3d028f5bda245)
+binary stamps:
+3 items
+C:\Program Files\Java\jre1.8.0_221\lib\rt.jar -> lastModified(1570905332152)
+C:\Users\Alan\.ivy2\cache\com.jsuereth\scala-arm_2.11\jars\scala-arm_2.11-1.4.jar -> lastModified(1398875215000)
+C:\Users\Alan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+3 items
+C:\Program Files\Java\jre1.8.0_221\lib\rt.jar -> java.lang.Object
+C:\Users\Alan\.ivy2\cache\com.jsuereth\scala-arm_2.11\jars\scala-arm_2.11-1.4.jar -> resource.Resource
+C:\Users\Alan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar -> scala.App
+internal apis:
+3 items
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw5keGowAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAac3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw+YZFuHQABm5vdGlmeXNxAH4ADBb7xzh0AAdleGVjdXRlc3EAfgAM80fhXnQABHdhaXRzcQB+AAxlhHBidAANJGFzSW5zdGFuY2VPZnNxAH4ADDZK6R10AAZlcXVhbHNzcQB+AAzLZWzTdAAMYXNJbnN0YW5jZU9mc3EAfgAMU8arU3QADmV4ZWN1dGlvblN0YXJ0c3EAfgAMQaf11XQADHN5bmNocm9uaXplZHNxAH4ADK8sHCJ0AA0kaXNJbnN0YW5jZU9mc3EAfgAMaW89dHQABG1haW5zcQB+AAytA6XkdAAJbm90aWZ5QWxsc3EAfgAMdz2QWXQADGlzSW5zdGFuY2VPZnNxAH4ADMMO5QF0ABBTaW1wbGVTZXJ2ZXJMb29wc3EAfgAMrdpFtHQAAj09c3EAfgAMf42KCHQABWNsb25lc3EAfgAMSOgSOHQABiRpbml0JHNxAH4ADDIyGXJ0AAh0b1N0cmluZ3NxAH4ADDi3Z/x0AARhcmdzc3EAfgAMWBI2B3QAAiE9c3EAfgAM4H30Y3QACGdldENsYXNzc3EAfgAMprUmmnQAAm5lc3EAfgAMGB+ts3QAAmVxc3EAfgAMUVFtJnQAC2RlbGF5ZWRJbml0c3EAfgAMW+cyinQAAiMjc3EAfgAMSSNqInQACGZpbmFsaXplc3EAfgAMzi4TOXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AS3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAndXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5ndAAQc2NhbGEuZGVwcmVjYXRlZHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBkc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEtMAAlpbmhlcml0ZWRxAH4AS0wAB3BhcmVudHNxAH4AS3hxAH4AaXNxAH4AZHVxAH4ARgAAAABzcQB+AGR1cQB+AEYAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AExxAH4AVXVxAH4AVgAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AHN4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AaHQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBoc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCNc3EAfgBYAHEAfgAhdXEAfgBaAAAAAHNxAH4AgHQABFVuaXRxAH4AhnVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AHN4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AF10AAVQbGFpbnEAfgAxc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCBWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBoc3EAfgCAdAAFQXJyYXlxAH4AhnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCAdAAGU3RyaW5nc3EAfgCEc3EAfgCHdXEAfgCKAAAAA3NxAH4AjHQABGphdmFzcQB+AIx0AARsYW5ncQB+AJFzcQB+AGR1cQB+AKgAAAAEc3EAfgCAdAADQXBwcQB+AIZzcQB+AIB0AAtEZWxheWVkSW5pdHEAfgCGc3EAfgCAdAAGT2JqZWN0cQB+AKxzcQB+AIB0AANBbnlxAH4AhnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFurMnElHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AGNDOlxVc2Vyc1xBbGFuXERlc2t0b3BcR2l0aHViIFByb2plY3QoQWxhbilcU2NhbGFcU2ltcGxlX1NlcnZlcl9DbGllbnRcYmluXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTpw1E60E6n1NNCofDrPgytr4MQCw==
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw0f5noQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAZc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwei+K5nQABm5vdGlmeXNxAH4ADI7orlt0AAR3YWl0c3EAfgAMXoPcX3QADSRhc0luc3RhbmNlT2ZzcQB+AAzdULwRdAAGZXF1YWxzc3EAfgAMowYMSnQADFNpbXBsZUNsaWVudHNxAH4ADHvly/F0AAxhc0luc3RhbmNlT2ZzcQB+AAwtUWiJdAAOZXhlY3V0aW9uU3RhcnRzcQB+AAxCzpcNdAAMc3luY2hyb25pemVkc3EAfgAMWZ5UOXQADSRpc0luc3RhbmNlT2ZzcQB+AAxMy2q5dAAEbWFpbnNxAH4ADPSJL7Z0AAlub3RpZnlBbGxzcQB+AAwvnYL2dAAMaXNJbnN0YW5jZU9mc3EAfgAMftvwoHQAAj09c3EAfgAMWKzrmHQABWNsb25lc3EAfgAMZUwgsnQABiRpbml0JHNxAH4ADERc50B0AAh0b1N0cmluZ3NxAH4ADGRcYWR0AARhcmdzc3EAfgAMoHr/1XQAAiE9c3EAfgAMTZdlHXQACGdldENsYXNzc3EAfgAMIOHwZ3QAAm5lc3EAfgAMwr///3QAAmVxc3EAfgAMOkTUcnQAC2RlbGF5ZWRJbml0c3EAfgAMdxSc0XQAAiMjc3EAfgAMl6seWHQACGZpbmFsaXplc3EAfgAMvTHrwnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ASXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAXdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5ndAAQc2NhbGEuZGVwcmVjYXRlZHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBic3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AElMAAlpbmhlcml0ZWRxAH4ASUwAB3BhcmVudHNxAH4ASXhxAH4AZ3NxAH4AYnVxAH4ARAAAAABzcQB+AGJ1cQB+AEQAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEpxAH4AU3VxAH4AVAAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AHF4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZnQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBmc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCLc3EAfgBWAHEAfgAhdXEAfgBYAAAAAHNxAH4AfnQABFVuaXRxAH4AhHVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AHF4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFt0AAVQbGFpbnEAfgAvc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgB/WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBmc3EAfgB+dAAFQXJyYXlxAH4AhHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgB+dAAGU3RyaW5nc3EAfgCCc3EAfgCFdXEAfgCIAAAAA3NxAH4AinQABGphdmFzcQB+AIp0AARsYW5ncQB+AI9zcQB+AGJ1cQB+AKYAAAAEc3EAfgB+dAADQXBwcQB+AIRzcQB+AH50AAtEZWxheWVkSW5pdHEAfgCEc3EAfgB+dAAGT2JqZWN0cQB+AKpzcQB+AH50AANBbnlxAH4AhHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFurMnElHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AGNDOlxVc2Vyc1xBbGFuXERlc2t0b3BcR2l0aHViIFByb2plY3QoQWxhbilcU2NhbGFcU2ltcGxlX1NlcnZlcl9DbGllbnRcYmluXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTq15XbPTnF05/dGLENrSgeBfXWDw==
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Test.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwR9cTbwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAec3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwBQv4oXQABm5vdGlmeXNxAH4ADCrTa/p0AAR3YWl0c3EAfgAM3qT9+nQABGFkZDNzcQB+AAzlh9eLdAANJGFzSW5zdGFuY2VPZnNxAH4ADFfT0eJ0AAZlcXVhbHNzcQB+AAw8ampddAAMYXNJbnN0YW5jZU9mc3EAfgAM4BK/i3QADmV4ZWN1dGlvblN0YXJ0c3EAfgAMvba6tnQADHN5bmNocm9uaXplZHNxAH4ADL3i0wx0AARhZGQ0c3EAfgAMHVh2NnQADSRpc0luc3RhbmNlT2ZzcQB+AAz4xvOodAAEbWFpbnNxAH4ADPiPmcJ0AAlub3RpZnlBbGxzcQB+AAy2Aa5qdAAMaXNJbnN0YW5jZU9mc3EAfgAMvPH5snQAAj09c3EAfgAMJI7xMnQACGFkZE90aGVyc3EAfgAME0zNVnQABWNsb25lc3EAfgAM5bg2t3QABiRpbml0JHNxAH4ADP3Nap50AARUZXN0c3EAfgAMyqLqyXQACHRvU3RyaW5nc3EAfgAM92g/yHQABGFyZ3NzcQB+AAyccaLFdAACIT1zcQB+AAwvgrm5dAAIZ2V0Q2xhc3NzcQB+AAwauIuudAACbmVzcQB+AAxT6jYBdAADYWRkc3EAfgAMoBERH3QABGFkZDJzcQB+AAzCudPTdAACZXFzcQB+AAxQsqn8dAALZGVsYXllZEluaXRzcQB+AAxcn8TBdAACIyNzcQB+AAwcy/1ZdAAIZmluYWxpemVzcQB+AAy4/OyDdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBTeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+ADF1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmd0ABBzY2FsYS5kZXByZWNhdGVkc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGxzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AU0wACWluaGVyaXRlZHEAfgBTTAAHcGFyZW50c3EAfgBTeHEAfgBxc3EAfgBsdXEAfgBOAAAAAHNxAH4AbHVxAH4ATgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AVHEAfgBddXEAfgBeAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4Ae3hwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AA1MAAV2YWx1ZXEAfgANeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBwdAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHBzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJVzcQB+AGAAcQB+ACN1cQB+AGIAAAAAc3EAfgCIdAAEVW5pdHEAfgCOdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4Ae3hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AZXQABVBsYWlucQB+ADVzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AIlbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AHBzcQB+AIh0AAVBcnJheXEAfgCOdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AIh0AAZTdHJpbmdzcQB+AIxzcQB+AI91cQB+AJIAAAADc3EAfgCUdAAEamF2YXNxAH4AlHQABGxhbmdxAH4AmXNxAH4AbHVxAH4AsAAAAARzcQB+AIh0AANBcHBxAH4AjnNxAH4AiHQAC0RlbGF5ZWRJbml0cQB+AI5zcQB+AIh0AAZPYmplY3RxAH4AtHNxAH4AiHQAA0FueXEAfgCOdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAW6sycSUdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAY0M6XFVzZXJzXEFsYW5cRGVza3RvcFxHaXRodWIgUHJvamVjdChBbGFuKVxTY2FsYVxTaW1wbGVfU2VydmVyX0NsaWVudFxiaW5cdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFOhzUh3N/8ROJsXHLcGj0Cj1vaJF
+external apis:
+0 items
+source infos:
+3 items
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Application.scala -> 
+AAAAAAAAAAA=
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\client.scala -> 
+AAAAAAAAAAA=
+C:\Users\Alan\Desktop\Github Project(Alan)\Scala\Simple_Server_Client\bin\src\main\scala\Test.scala -> 
+AAAAAAAAAAA=
+compilations:
+4 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV/Uocrh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAN0M6XFVzZXJzXFVzZXJcRGVza3RvcFxzYnRcYmluXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV/VG7b11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAN0M6XFVzZXJzXFVzZXJcRGVza3RvcFxzYnRcYmluXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbqqxgit1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXEU6XEFsYW5cVW5pdmVyc2l0eVxCQ1MgWUVBUjMgU0VNOFxEaXN0cmlidXRlZCBTeXN0ZW1cTGFiXExhYiA2XGJpblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbqzJxJR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAY0M6XFVzZXJzXEFsYW5cRGVza3RvcFxHaXRodWIgUHJvamVjdChBbGFuKVxTY2FsYVxTaW1wbGVfU2VydmVyX0NsaWVudFxiaW5cdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
